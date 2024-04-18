@@ -1,0 +1,4 @@
+/bin/
+#/.settings/ 상대경로로 선택되어 .을 사용하면 gittest파일 내부에서 주소가 시작된다. 
+/.settings/
+
